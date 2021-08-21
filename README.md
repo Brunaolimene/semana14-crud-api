@@ -49,11 +49,10 @@ estudio: referencia do estudio cadastrado previamente obrigatório
 ---
 **Entregavel**
 Crie seu repositório contendo:
-
 um readme com os maiores aprendizados nesse projeto e copiando todas as informações sobre o projeto
-cumprimento total do contrato (requisitos e regras de negócios)
+cumprimento total do contrato (requisitos e regras de negócios
 realizar testes no Postman e verificar se os dados estão persistindo com o mongoDB (ROBO 3T)
---- 
+
 Considerações finais: 
 
 Com esse projeto pude compreender melhor como fazer um CRUD integrado ao banco e dados e com certeza, todo  o aprenzado extraído dessa atividade irá me ajudar na construção do meu projeto final. 
